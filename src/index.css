@@ -13,7 +13,9 @@ code {
 }
 
 .App {
+  height: 100vh;
   display: flex;
-  text-align: center;
+  font-size: 8rem;
+  align-items: center;
   justify-content: center;
 }
